@@ -1,0 +1,4 @@
+*.pdf
+docs.index
+faiss_store.pkl
+__pycache__
